@@ -12,15 +12,10 @@ Live Resume Preview: Instantly view your resume while editing.
 Multiple Templates: Choose from 6 professional templates:
 
 Professional
-
 Modern
-
 Creative
-
 Executive
-
 Minimalist
-
 Technical
 
 PDF Export: Download your resume as a high-quality PDF.
