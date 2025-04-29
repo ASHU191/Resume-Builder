@@ -4,7 +4,7 @@ Designed for users to create professional resumes effortlessly, choose from beau
 
 🚀 Features
 Landing Page: Clean, modern landing page showcasing app features and template previews.
-
+ 
 Multi-Step Resume Builder: Collects personal info, education, experience, and skills.
 
 Live Resume Preview: Instantly view your resume while editing.
