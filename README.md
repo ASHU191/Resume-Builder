@@ -10,7 +10,7 @@ Multi-Step Resume Builder: Collects personal info, education, experience, and sk
 Live Resume Preview: Instantly view your resume while editing.
  
 Multiple Templates: Choose from 6 professional templates:
-
+   
 Professional
 Modern
 Creative
